@@ -1,0 +1,7 @@
+# Ignore these files
+.DS_Store
+.o
+.a
+.swp
+node_modules/
+
